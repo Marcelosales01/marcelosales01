@@ -1,8 +1,8 @@
-<p align="center">Hi there 👋</p>
+<h2 align="center">Hi there 👋</h2>
 
 ###
 
-<h3 align="left">About me</h3>
+<h2 align="left">About me</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">Techs</h3>
+<h2 align="left">Techs</h2>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<h3 align="left">Stats</h3>
+<h2 align="left">Stats</h2>
 
 ###
 
@@ -44,7 +44,7 @@
 
 ###
 
-<h3 align="left">Social Media</h3>
+<h2 align="left">Social Media</h2>
 
 ###
 
